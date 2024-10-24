@@ -1,0 +1,57 @@
+#heading1{
+    text-align: center;
+}
+.paragraph{
+    font-family: "Comic Sans MS";
+    font-size: 18px;
+    font-style: italic;
+}
+#mydivision{
+    background-color: #ffb700;
+    margin-left: 50px;
+    padding: 30px;
+}
+#mydivision h1{
+    color: antiquewhite;
+    text-align: center;
+}
+#test{
+    display: flex;
+    background-color: aqua;
+    margin: 50px;
+    color: burlywood;
+}
+#test img{
+    margin-right: 30px;
+    border-radius: 400px;
+    height: auto;
+    width: auto;
+
+}
+#main{
+    display: flex;
+}
+#advertisement{
+    background-color: antiquewhite;
+    color: #ff00cc;
+    margin-right: 20px;
+    padding: 20px;
+    box-shadow: 10px 8px 4px gold;
+}
+#accounting{
+    background-color: #d7fadc;
+    color: #c8ff00;
+    margin-right: 20px;
+    padding: 20px;
+    box-shadow: 10px 8px 4px gold;
+}
+#payment{
+    background-color: antiquewhite;
+    color: #ff0000;
+    margin-right: 20px;
+    padding: 20px;
+    box-shadow: 10px 8px 4px gold;
+}
+#advertisement:hover,#accounting:hover,#payment:hover{
+    background-color: rgba(50, 205, 117, 0.34);
+}
